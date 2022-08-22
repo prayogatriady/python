@@ -19,9 +19,9 @@
 * Explored the dataset to detect the anomaly and performed feature engineering to achieve the best model which suitable for the dataset.
 * Accommodate an insight for the citizen who is about to live in Bangalore.
 
-### 5. Data Science Salary EDA
+### 5. Data Science Salary Analytics
 * Utilized python to perform exploratory data analysis techniques to find the best data science job since 2020.
-* Explored the dataset to catch patterns and relations among the available categories
+* Explored the dataset to catch patterns and visualized it on Tableau Public
 * Help out job seekers to compare the best data science job based on company location
 
 ### 6. Gender Face Recognition
