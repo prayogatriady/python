@@ -28,3 +28,13 @@
 * Utilized python to implement supervised machine learning techniques to predict gender by face image
 * Applied computer vision library to detect face and train the training set data
 * Help out the stakeholder to classify gender
+
+### 7. Sales Data Analytics
+* Utilized python to answer a business question of sales worth data in a year
+* Perform exploratory data analytics and data visualization with Python Seaborn
+* Encourage the stakeholder to establish further business problems
+
+### 8. Glints Jobs Analytics
+* Utilized python to do web scraping of Glints' jobs dataset and answer the business questions
+* Perform data cleaning, removing outliers, and provide province for each jobs location
+* Obtain several insight into jobs characteristics for each province
